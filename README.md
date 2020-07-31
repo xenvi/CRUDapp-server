@@ -4,3 +4,6 @@ Connects React client side to Node/Express servers through a proxy. Communicates
 node server.js
 OR
 nodemon server.js
+
+# Run client side in client repo
+npm start
